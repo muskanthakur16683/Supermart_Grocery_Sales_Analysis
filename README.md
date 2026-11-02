@@ -25,7 +25,8 @@ This project analyzes grocery sales data using Microsoft Excel 2021. The goal is
 - Snacks generated the highest category-level profit.
 
 ## Dashboard Preview
-Add your dashboard screenshot here.
+
+![Supermart Grocery Sales Dashboard](Supermart%20Grocery%20Sales%20Analysis%20Dashboard.png)
 
 ## Skills Demonstrated
 Excel data analysis, PivotTables, data visualization, KPI reporting, and dashboard design.
